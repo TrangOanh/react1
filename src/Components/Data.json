@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Trương Mạn Ngọc",
+        "tel":"0989027511",
+        "Permision":2 
+    },
+    {
+        "id":2,
+        "name":"Lý Thu Thảo",
+        "tel":"0989027777",
+        "Permision":1 
+    },
+    {
+        "id":3,
+        "name":"Cao Lê Vương",
+        "tel":"0989024258",
+        "Permision":3 
+    },
+    {
+        "id":4,
+        "name":"Lê Uyên Nhã Thy",
+        "tel":"098947895",
+        "Permision":3 
+    },
+    {
+        "id":5,
+        "name":"Võ Thị Thu Hằng",
+        "tel":"0989027511",
+        "Permision":3 
+    }
+]
